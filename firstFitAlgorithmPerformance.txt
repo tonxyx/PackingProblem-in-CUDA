@@ -1,0 +1,9 @@
+# CUDA_PROFILE_LOG_VERSION 2.0
+# CUDA_DEVICE 0 GeForce GT 430
+# CUDA_CONTEXT 1
+# TIMESTAMPFACTOR 131f19d49fab5754
+method,gputime,cputime,occupancy
+method=[ memcpyHtoD ] gputime=[ 1.600 ] cputime=[ 28.216 ]
+method=[ memcpyHtoD ] gputime=[ 1.184 ] cputime=[ 8.102 ]
+method=[ binPacking ] gputime=[ 12.448 ] cputime=[ 1278.094 ] occupancy=[ 0.021 ]
+method=[ memcpyDtoH ] gputime=[ 2.976 ] cputime=[ 24.584 ]
